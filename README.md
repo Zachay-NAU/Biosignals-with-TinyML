@@ -55,4 +55,5 @@ For example, we can create an Arduino liberary and add it to the original libera
 Thus, we can directly call the relevant library during programming  
 
 ### The second way is to build a "ready-to-go binary" firmware
-We can directly drop the firmware into the device storage after it enters the boot mode.
+We can directly drop the firmware into the device storage after it enters the boot mode  
+The tips will show in the serial port
